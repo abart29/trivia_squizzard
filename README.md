@@ -90,7 +90,7 @@ npm install
 ```bash
 npm run dev
 ```
-Open http://localhost:5731/signup in your browser to view the application.
+Open http://localhost:5173/signup in your browser to view the application.
 
 Accessing the Application
 
