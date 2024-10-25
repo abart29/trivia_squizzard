@@ -71,7 +71,7 @@ This is a full-stack Trivia Game application built with a Spring Boot backend an
 ### Backend
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/trivia-game-backend.git
+   git clone https://github.com/your-repo/trivia_squizzard.git
    cd trivia-game-backend
 2. Build and run the Spring Boot application:
 ```bash
@@ -90,12 +90,12 @@ npm install
 ```bash
 npm run dev
 ```
-Open http://localhost:3000 in your browser to view the application.
+Open http://localhost:5731/signup in your browser to view the application.
 
 Accessing the Application
 
 ## Accessing the Application
 
-- **Local Development**: [http://localhost:5173](http://localhost:5173) (Vite development server)
+- **Local Development**: [http://localhost:5173](http://localhost:5173/signup) (Vite development server)
 - **Deployed Version**: [https://trivia-react-latest.onrender.com/signup](https://trivia-react-latest.onrender.com/signup)
 
