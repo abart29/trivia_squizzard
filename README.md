@@ -69,7 +69,7 @@ This is a full-stack Trivia Game application built with a Spring Boot backend an
 ## How to Run
 
 ### Create the Database
-- Create a new database named `trivia_springboot_development` in your preferred SQL database (H2, PostgreSQL, MySQL, etc.).
+1. Create a new database named `trivia_springboot_development` in your preferred SQL database (H2, PostgreSQL, MySQL, etc.).
 
 ### Backend
 1. Clone the repository:
